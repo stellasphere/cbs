@@ -1,3 +1,11 @@
+/*
+Class Based Styles
+
+Class Based Styles are styles that can be applied without creating a CSS file. Just by linking the css file and editing the class of each element, it allows for quick prototyping and experimination for projects while minimizing the amount of files and effort required.
+
+https://github.com/stellasphere/cbs
+*/
+
 /*-------------------------------- SIZING --------------------------------*/
 
 /*--------- PERCENTS ---------*/
@@ -179,7 +187,7 @@
 .overflowhidden { overflow: hidden; }
 .overflowvisible { overflow: visible; }
 
-/*-------------------------------- Z-INDEX --------------------------------*/
+/*-------------------------------- SPECIAL --------------------------------*/
 
 .disablescroll { height: 100%; overflow: hidden; }
 
