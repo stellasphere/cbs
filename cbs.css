@@ -1,0 +1,288 @@
+/*-------------------------------- SIZING --------------------------------*/
+
+/*--------- PERCENTS ---------*/
+
+/*WIDTH*/
+
+.width100percent { width: 100%; }
+.width99percent { width: 99%; }
+.width95percent { width: 95%; }
+.width90percent { width: 90%; }
+.width85percent { width: 85%; }
+.width80percent { width: 80%; }
+.width75percent { width: 75%; }
+.width70percent { width: 70%; }
+.width65percent { width: 65%; }
+.width60percent { width: 60%; }
+.width55percent { width: 55%; }
+.width50percent { width: 50%; }
+.width45percent { width: 45%; }
+.width40percent { width: 40%; }
+.width35percent { width: 35%; }
+.width30percent { width: 30%; }
+.width25percent { width: 25%; }
+.width15percent { width: 15%; }
+.width10percent { width: 10%; }
+.width5percent { width: 5%; }
+.width1percent { width: 1%; }
+.width0percent { width: 0%; }
+
+/*HEIGHT*/
+
+.height100percent { height: 100%; }
+.height99percent { height: 99%; }
+.height95percent { height: 95%; }
+.height90percent { height: 90%; }
+.height85percent { height: 85%; }
+.height80percent { height: 80%; }
+.height75percent { height: 75%; }
+.height70percent { height: 70%; }
+.height65percent { height: 65%; }
+.height60percent { height: 60%; }
+.height55percent { height: 55%; }
+.height50percent { height: 50%; }
+.height45percent { height: 45%; }
+.height40percent { height: 40%; }
+.height35percent { height: 35%; }
+.height30percent { height: 30%; }
+.height25percent { height: 25%; }
+.height15percent { height: 15%; }
+.height10percent { height: 10%; }
+.height5percent { height: 5%; }
+.height1percent { height: 1%; }
+.height0percent { height: 0%; }
+
+/*--------- VIEW CONSTANTS ---------*/
+
+/*WIDTH*/
+
+.width100vw { width: 100vw; }
+.width99vw { width: 99vw; }
+.width95vw { width: 95vw; }
+.width90vw { width: 90vw; }
+.width85vw { width: 85vw; }
+.width80vw { width: 80vw; }
+.width75vw { width: 75vw; }
+.width70vw { width: 70vw; }
+.width65vw { width: 65vw; }
+.width60vw { width: 60vw; }
+.width55vw { width: 55vw; }
+.width50vw { width: 50vw; }
+.width45vw { width: 45vw; }
+.width40vw { width: 40vw; }
+.width35vw { width: 35vw; }
+.width30vw { width: 30vw; }
+.width25vw { width: 25vw; }
+.width15vw { width: 15vw; }
+.width10vw { width: 10vw; }
+.width5vw { width: 5vw; }
+.width1vw { width: 1vw; }
+.width0vw { width: 0vw; }
+
+/*HEIGHT*/
+
+.height100vw { height: 100%; }
+.height99vw { height: 99%; }
+.height95vw { height: 95%; }
+.height90vw { height: 90%; }
+.height85vw { height: 85%; }
+.height80vw { height: 80%; }
+.height75vw { height: 75%; }
+.height70vw { height: 70%; }
+.height65vw { height: 65%; }
+.height60vw { height: 60%; }
+.height55vw { height: 55%; }
+.height50vw { height: 50%; }
+.height45vw { height: 45%; }
+.height40vw { height: 40%; }
+.height35vw { height: 35%; }
+.height30vw { height: 30%; }
+.height25vw { height: 25%; }
+.height15vw { height: 15%; }
+.height10vw { height: 10%; }
+.height5vw { height: 5%; }
+.height1vw { height: 1%; }
+.height0vw { height: 0%; }
+
+/*-------------------------------- MARGINS --------------------------------*/
+
+/*--------- ALL ---------*/\
+
+/*AUTO*/
+
+.marginauto { margin: auto; }
+
+/*PERCENT*/
+
+.margin100percent { margin: 100%; }
+.margin99percent { margin: 99%; }
+.margin95percent { margin: 95%; }
+.margin90percent { margin: 90%; }
+.margin85percent { margin: 85%; }
+.margin80percent { margin: 80%; }
+.margin75percent { margin: 75%; }
+.margin70percent { margin: 70%; }
+.margin65percent { margin: 65%; }
+.margin60percent { margin: 60%; }
+.margin55percent { margin: 55%; }
+.margin50percent { margin: 50%; }
+.margin45percent { margin: 45%; }
+.margin40percent { margin: 40%; }
+.margin35percent { margin: 35%; }
+.margin30percent { margin: 30%; }
+.margin25percent { margin: 25%; }
+.margin15percent { margin: 15%; }
+.margin10percent { margin: 10%; }
+.margin5percent { margin: 5%; }
+.margin1percent { margin: 1%; }
+.margin0percent { margin: 0%; }
+
+/*PIXELS*/
+
+.margin1000px { margin: 1000px; }
+.margin100px { margin: 100px; }
+.margin75px { margin: 75px; }
+.margin50px { margin: 50px; }
+.margin25px { margin: 25px; }
+.margin10px { margin: 10px; }
+.margin5px { margin: 5px; }
+.margin1px { margin: 1px; }
+.margin0px { margin: 0px; }
+
+/*-------------------------------- POSITIONING --------------------------------*/
+
+.positionabsolute { position: absolute; }
+.positionfixed { position: fixed; }
+.positioninherit { position: inherit; }
+.positioninitial { position: initial; }
+.positionrelative { position: relative; }
+.positionrevert { position: revert; }
+.positionstatic { position: static; }
+.positionsticky { position: sticky; }
+.positionunset { position: unset; }
+
+/*-------------------------------- BORDER --------------------------------*/
+
+/*--------- WIDTH ---------*/
+
+/*PIXELS*/
+
+.border50px { border: 50px; }
+.border25px { border: 25px; }
+.border10px { border: 10px; }
+.border5px { border: 5px; }
+.border1px { border: 1px; }
+.border0px { border: 0px; }
+
+/*-------------------------------- OVERFLOW --------------------------------*/
+
+.overflowhidden { overflow: hidden; }
+.overflowvisible { overflow: visible; }
+
+/*-------------------------------- Z-INDEX --------------------------------*/
+
+.disablescroll { height: 100%; overflow: hidden; }
+
+/*-------------------------------- Z-INDEX --------------------------------*/
+
+.zindexlevel0 { z-index: 0; }
+.zindexlevel1 { z-index: 1; }
+.zindexlevel2 { z-index: 2; }
+.zindexlevel3 { z-index: 3; }
+.zindexlevel4 { z-index: 4; }
+.zindexlevel5 { z-index: 5; }
+.zindexlevel6 { z-index: 6; }
+.zindexlevel7 { z-index: 7; }
+.zindexlevel8 { z-index: 8; }
+.zindexlevel9 { z-index: 9; }
+.zindexlevel10 { z-index: 10; }
+.zindexlevel11 { z-index: 11; }
+.zindexlevel12 { z-index: 12; }
+.zindexlevel13 { z-index: 13; }
+.zindexlevel14 { z-index: 14; }
+.zindexlevel15 { z-index: 15; }
+.zindexlevel16 { z-index: 16; }
+.zindexlevel17 { z-index: 17; }
+.zindexlevel18 { z-index: 18; }
+.zindexlevel19 { z-index: 19; }
+.zindexlevel20 { z-index: 20; }
+.zindexlevel21 { z-index: 21; }
+.zindexlevel22 { z-index: 22; }
+.zindexlevel23 { z-index: 23; }
+.zindexlevel24 { z-index: 24; }
+.zindexlevel25 { z-index: 25; }
+.zindexlevel26 { z-index: 26; }
+.zindexlevel27 { z-index: 27; }
+.zindexlevel28 { z-index: 28; }
+.zindexlevel29 { z-index: 29; }
+.zindexlevel30 { z-index: 30; }
+.zindexlevel31 { z-index: 31; }
+.zindexlevel32 { z-index: 32; }
+.zindexlevel33 { z-index: 33; }
+.zindexlevel34 { z-index: 34; }
+.zindexlevel35 { z-index: 35; }
+.zindexlevel36 { z-index: 36; }
+.zindexlevel37 { z-index: 37; }
+.zindexlevel38 { z-index: 38; }
+.zindexlevel39 { z-index: 39; }
+.zindexlevel40 { z-index: 40; }
+.zindexlevel41 { z-index: 41; }
+.zindexlevel42 { z-index: 42; }
+.zindexlevel43 { z-index: 43; }
+.zindexlevel44 { z-index: 44; }
+.zindexlevel45 { z-index: 45; }
+.zindexlevel46 { z-index: 46; }
+.zindexlevel47 { z-index: 47; }
+.zindexlevel48 { z-index: 48; }
+.zindexlevel49 { z-index: 49; }
+.zindexlevel50 { z-index: 50; }
+.zindexlevel51 { z-index: 51; }
+.zindexlevel52 { z-index: 52; }
+.zindexlevel53 { z-index: 53; }
+.zindexlevel54 { z-index: 54; }
+.zindexlevel55 { z-index: 55; }
+.zindexlevel56 { z-index: 56; }
+.zindexlevel57 { z-index: 57; }
+.zindexlevel58 { z-index: 58; }
+.zindexlevel59 { z-index: 59; }
+.zindexlevel60 { z-index: 60; }
+.zindexlevel61 { z-index: 61; }
+.zindexlevel62 { z-index: 62; }
+.zindexlevel63 { z-index: 63; }
+.zindexlevel64 { z-index: 64; }
+.zindexlevel65 { z-index: 65; }
+.zindexlevel66 { z-index: 66; }
+.zindexlevel67 { z-index: 67; }
+.zindexlevel68 { z-index: 68; }
+.zindexlevel69 { z-index: 69; }
+.zindexlevel70 { z-index: 70; }
+.zindexlevel71 { z-index: 71; }
+.zindexlevel72 { z-index: 72; }
+.zindexlevel73 { z-index: 73; }
+.zindexlevel74 { z-index: 74; }
+.zindexlevel75 { z-index: 75; }
+.zindexlevel76 { z-index: 76; }
+.zindexlevel77 { z-index: 77; }
+.zindexlevel78 { z-index: 78; }
+.zindexlevel79 { z-index: 79; }
+.zindexlevel80 { z-index: 80; }
+.zindexlevel81 { z-index: 81; }
+.zindexlevel82 { z-index: 82; }
+.zindexlevel83 { z-index: 83; }
+.zindexlevel84 { z-index: 84; }
+.zindexlevel85 { z-index: 85; }
+.zindexlevel86 { z-index: 86; }
+.zindexlevel87 { z-index: 87; }
+.zindexlevel88 { z-index: 88; }
+.zindexlevel89 { z-index: 89; }
+.zindexlevel90 { z-index: 90; }
+.zindexlevel91 { z-index: 91; }
+.zindexlevel92 { z-index: 92; }
+.zindexlevel93 { z-index: 93; }
+.zindexlevel94 { z-index: 94; }
+.zindexlevel95 { z-index: 95; }
+.zindexlevel96 { z-index: 96; }
+.zindexlevel97 { z-index: 97; }
+.zindexlevel98 { z-index: 98; }
+.zindexlevel99 { z-index: 99; }
+.zindexlevel100 { z-index: 100; }
