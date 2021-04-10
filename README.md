@@ -17,7 +17,7 @@ Use this to always get the latest version of CBS.
 
 :warning: Requesting the latest version is dangerous because a new version may come with breaking changes. Only do this if you really know what you are doing.
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/stellasphere/cbs/cbs.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/stellasphere/cbs@latest/cbs.css">
 ```
 
 ## Class Based Style Properties
