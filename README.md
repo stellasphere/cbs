@@ -29,6 +29,10 @@ Use this to always get the latest version of CBS.
     - Percent
     - Pixels
   - Auto
+- Text Font
+  - Font Size
+    - Pixels
+    - EM
 - Positioning
   - Absolute
   - Fixed
@@ -47,6 +51,22 @@ Use this to always get the latest version of CBS.
 - Overflow
   - Hidden
   - Visible
-- Z-Index
 - Special
   - Disable Scrolling
+  - Columns
+    - Row Container
+    - Columns
+      - Full
+      - Four Fifths
+      - Three Fourths
+      - Two Thirds
+      - One Half
+      - One Third
+      - One Fourth
+      - One Fifth
+      - One Sixth
+      - One Seventh
+      - One Eighth
+      - One Nineth
+      - One Tenth
+- Z-Index
