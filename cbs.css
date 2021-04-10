@@ -279,19 +279,19 @@ https://github.com/stellasphere/cbs
 
 /*COLUMNS*/
 
-.columnfull { float: left; width: 100%; 
-.columnfourfifths { float: left; width: 80%; }
-.columnthreefourths { float: left; width: 75%; }
-.columntwothirds { float: left; width: 66.66%; }
-.columnonehalf { float: left; width: 50%; }
-.columnonethird { float: left; width: 33.33%; }
-.columnonefourth { float: left; width: 25%; }
-.columnonefifth { float: left; width: 20%; }
-.columnonesixth { float: left; width: 16.66%; }
-.columnoneseventh { float: left; width: 13.28%; }
-.columnoneeighth { float: left; width: 12.5%; }
-.columnonenineth { float: left; width: 11.1%; }
-.columnonetenth { float: left; width: 10%; }
+.columnfull { float: left; width: 100%; box-sizing: border-box; }
+.columnfourfifths { float: left; width: 80%; box-sizing: border-box; }
+.columnthreefourths { float: left; width: 75%; box-sizing: border-box; }
+.columntwothirds { float: left; width: 66.66%; box-sizing: border-box; }
+.columnonehalf { float: left; width: 50%; box-sizing: border-box; }
+.columnonethird { float: left; width: 33.33%; box-sizing: border-box; }
+.columnonefourth { float: left; width: 25%; box-sizing: border-box; }
+.columnonefifth { float: left; width: 20%; box-sizing: border-box; }
+.columnonesixth { float: left; width: 16.66%; box-sizing: border-box; }
+.columnoneseventh { float: left; width: 13.28%; box-sizing: border-box; }
+.columnoneeighth { float: left; width: 12.5%; box-sizing: border-box; }
+.columnonenineth { float: left; width: 11.1%; box-sizing: border-box; }
+.columnonetenth { float: left; width: 10%; box-sizing: border-box; }
 
 /*-------------------------------- Z-INDEX --------------------------------*/
 
