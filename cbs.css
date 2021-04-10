@@ -182,6 +182,46 @@ https://github.com/stellasphere/cbs
 .border1px { border: 1px; }
 .border0px { border: 0px; }
 
+/*-------------------------------- COLORS --------------------------------*/
+
+/*--------- COLOR ---------*/
+
+.colorblack { color: black; }
+.colorsilver { color: silver; }
+.colorgray { color: gray; }
+.colorwhite { color: white; }
+.colormaroon { color: maroon; }
+.colorred { color: red; }
+.colorpurple { color: purple; }
+.colorfuchsia { color: fuchsia; }
+.colorgreen { color: green; }
+.colorlime { color: lime; }
+.colorolive { color: olive; }
+.coloryellow { color: yellow; }
+.colornavy { color: navy; }
+.colorblue { color: blue; }
+.colorteal { color: teal; }
+.coloraqua { color: aqua; }
+
+/*--------- BACKGROUND COLOR ---------*/
+
+.backgroundcolorblack { background-color: black; }
+.backgroundcolorsilver { background-color: silver; }
+.backgroundcolorgray { background-color: gray; }
+.backgroundcolorwhite { background-color: white; }
+.backgroundcolormaroon { background-color: maroon; }
+.backgroundcolorred { background-color: red; }
+.backgroundcolorpurple { background-color: purple; }
+.backgroundcolorfuchsia { background-color: fuchsia; }
+.backgroundcolorgreen { background-color: green; }
+.backgroundcolorlime { background-color: lime; }
+.backgroundcolorolive { background-color: olive; }
+.backgroundcoloryellow { background-color: yellow; }
+.backgroundcolornavy { background-color: navy; }
+.backgroundcolorblue { background-color: blue; }
+.backgroundcolorteal { background-color: teal; }
+.backgroundcoloraqua { background-color: aqua; }
+
 /*-------------------------------- OVERFLOW --------------------------------*/
 
 .overflowhidden { overflow: hidden; }
