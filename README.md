@@ -12,6 +12,12 @@ Either download the cbs.css file or the cbs.min.css file or use the following co
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/stellasphere/cbs/cbs.min.css">
 ```
+#### Latest
+Use this to always get the latest version of CBS.
+:warning: Requesting the latest version is dangerous because a new version may come with breaking changes. Only do this if you really know what you are doing.
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/stellasphere/cbs/cbs.min.css">
+```
 
 ## Class Based Style Properties
 - Sizing
