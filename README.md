@@ -34,6 +34,9 @@ Either download the cbs.css file or the cbs.min.css file or use the following co
   - Unset
 - Borders
   - Width
+- Colors
+  - Color
+  - Background Color
 - Overflow
   - Hidden
   - Visible
